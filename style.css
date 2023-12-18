@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey;
+}
+
+h3 {
+    font-size: 25px !important;
+}
+
+canvas {
+    background-color: white;
+    border:1px solid black;
+    border-radius: 10px;
+    margin-top: 25px;
+}
